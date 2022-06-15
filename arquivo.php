@@ -17,12 +17,12 @@
 							<title>Lista de URLs</title>
 							<meta charset="utf-8"/>
 							
-							<link rel="stylesheet" href="bootstrap/css/4.1.3/bootstrap.min.css">
-							<link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+							<link rel="stylesheet" href="bootstrap.min.css">
+							<link href="all.min.css" rel="stylesheet" type="text/css">
 							
-							<script src="js/jquery-3.3.1.slim.min.js"></script>
+							<script src="jquery-3.3.1.slim.min.js"></script>
 							<script src="ajax/libs/popper.js/1.14.3/umd/popper.min.js"></script>
-							<script src="bootstrap/4.1.3/bootstrap.min.js"></script>			
+							<script src="bootstrap.min.js"></script>			
 							<script type="text/javascript" src="js/loader.js"></script>
 							<script type="text/javascript">
 								google.load("jquery", "1.4.2");
